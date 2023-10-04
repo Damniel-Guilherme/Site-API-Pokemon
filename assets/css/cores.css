@@ -1,0 +1,18 @@
+:root {
+    /* Brand Colours */
+    --background: #D9E6F7;
+    --rosa: #ED2590;
+
+    /* Dark Scale */
+    --cinzaescuro: #4B4B4B;
+    --cinzaclaro: #B4AEAE;
+    --creme: #FDFEFF;
+    --branco: #FFF;
+    --preto: #000;
+
+    /* Color System */
+    --azul: #2962FF;
+    --verde: #0BB07B;
+    --amarelo: #FFCE52;
+    --vermelho: #F03D3D;
+}

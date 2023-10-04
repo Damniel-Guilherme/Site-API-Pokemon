@@ -1,0 +1,56 @@
+header {
+    display: flex;
+    align-items: center;
+    background: var(--branco);
+    box-sizing: content-box;
+    height: 60px;
+}
+
+.topo {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 20px 0px 18px;
+   
+}
+
+.logo-korkut {
+    width: 64px;
+    max-height: 19.4px;
+}
+
+.container__login {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* INPUT DE PESQUISA */
+
+.container__input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searc {
+    margin-top: 24px;
+    border: none;
+    width: 320px;
+    height: 44px;
+    background-color: var(--branco);
+    background-image: url(/assets/img/lupa.svg);
+    background-repeat: no-repeat;
+    background-position: 13.52px;
+    padding-left: 40px;
+    border-radius: 8px;
+    color: var(--cinza);
+}
+
+input::placeholder {
+   color: var(--cinzaclaro);
+   font-size: 16px;
+   font-weight: 400;
+   padding-left: 10.82px;
+}
