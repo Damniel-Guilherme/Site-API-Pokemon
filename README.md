@@ -1,22 +1,22 @@
 <div align="center">
-    <h1>LadingPage iMovi</h1>
+    <h1>API Pokemon</h1>
     <div> 
-        <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
-        <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
-        <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
-        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
+        <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/Site-API-Pokemon" style="pointer-events: none;" />
+        <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/Site-API-Pokemon" style="pointer-events: none;" />
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/Site-API-Pokemon" style="pointer-events: none;" />
+        <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/Site-API-Pokemon" style="pointer-events: none;" />
+        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/Site-API-Pokemon" style="pointer-events: none;" />
         <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
     </div>
 </div>
 
 ## Descrição 📝
 
-O **Lading Page iMovi** é um site de com temática de  Esfiharia desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS, BootStrap E SASS] PROJETO 5.
+O **Site API Pokemon** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 2 - HTML, CSS E JAVASCRIPT] PROJETO 1.
 
-## Tabela de Conteúdos 
+## Tabela de Conteúdos
 
-- [Landing Page iMovi](#LandingPage-iMovi)
+- [Landing Page API Pokemon](#API-Pokemon)
 - [Descrição](#descrição)
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Demonstração do Projeto](#Demonstração-Do-Projeto)
@@ -40,7 +40,7 @@ O **Lading Page iMovi** é um site de com temática de  Esfiharia desenvolvido c
 
 **Objetivo Profissional do Projeto:**
 
-O objetivo central deste projeto é promover a aquisição e aprimoramento dos conhecimentos em linguagens de marcação HTML, CSS, bootstrap e sass, seguindo rigorosamente o roadmap disponibilizado em nossa página no GitHub.
+O objetivo central deste projeto é incentivar a aquisição e o aprimoramento dos conhecimentos em desenvolvimento web utilizando as tecnologias fundamentais: HTML, CSS e JavaScript (Vanilla). Isso será alcançado através da implementação de projetos práticos e do seguimento de um roadmap estruturado, disponibilizado em nossa página no GitHub. O foco será na compreensão profunda das linguagens de marcação e estilização, bem como no domínio das interações dinâmicas proporcionadas pelo JavaScript básico.
 
 **Datas do Projeto:** 📅
 
@@ -50,27 +50,29 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 ## Preview do Projeto
 
 <div style="display: flex; flex-direction: row;">
-        <img src="https://i.imgur.com/TvvKLfm.png" alt="Imagem Mobile" width="100">
-        <img src="https://i.imgur.com/naw5jmK.png" alt="Imagem Desktop" width="250">
+        <img src="https://i.imgur.com/yuRv6Fn.png" alt="Imagem Mobile" width="100">
+        <img src="https://i.imgur.com/5qbDPmB.png" alt="Imagem Desktop" width="250">
 </div>
 
 ## Instalação ⚙️
 
-Para instalar e utilizar o **LandingPage iMovi**, siga estas etapas:
+Para instalar e utilizar o **API Pokemon**, siga estas etapas:
 
 1. **Clone o repositório:** 📜
+
 ```bash
-git clone https://github.com/Damniel-Guilherme/LadingPage-iMovi.git
+git clone https://github.com/Damniel-Guilherme/Site-API-Pokemon.git
 ```
 
 2. **Acesse o diretório do projeto:** 📁
+
 ```bash
-cd LandingPage iMovi
+cd Site API Pokemon
 ```
 
 ## Uso 💬
 
-Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://lading-page-i-movi.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
+Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://site-api-pokemon.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
 
 ## Sistema Operacional 🖥️
 
@@ -79,23 +81,19 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 ## Linguagens Utilizadas 📚
 
 <div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">HTML:</strong> Utilizado para estruturar e definir o conteúdo do nosso projeto web de forma semântica e acessível.
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">CSS:</strong> Utilizado para estilizar e formatar o conteúdo HTML, proporcionando uma apresentação visual atraente e consistente.
-  </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">HTML:</strong> Utilizado para estruturar e definir o conteúdo do nosso projeto web de forma semântica e acessível.
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">CSS:</strong> Utilizado para estilizar e formatar o conteúdo HTML, proporcionando uma apresentação visual atraente e consistente.
+    </div>
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://img.icons8.com/?size=512&id=108784&format=png" width="25" title="JavaScript" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">JavaScript:</strong> JavaScript é uma linguagem de programação de alto nível, interpretada e dinâmica, amplamente utilizada para criar conteúdo interativo em páginas da web.
+    </div>
+
+
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://img.icons8.com/?size=96&id=84710&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">BootStrap:</strong> Bootstrap é um framework front-end utilizado para desenvolver interfaces de usuário responsivas e estilizadas.
-  </div>
-</div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://img.icons8.com/?size=96&id=QBqFNfPPB2Kx&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Sass:</strong> Sass serve para facilitar a escrita e manutenção de estilos em páginas da web, estendendo as funcionalidades do CSS.
-  </div>
-</div>
 
 ## Ferramentas 🧰🛠️
 
@@ -141,12 +139,8 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Mobile**
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/T2H4tV9.png" width="100px">
-    <img src="https://i.imgur.com/0E5vpyo.png" width="100px">
-    <img src="https://i.imgur.com/s7hHFKa.png" width="100px">
-    <img src="https://i.imgur.com/jniMKiG.png" width="100px">
-    <img src="https://i.imgur.com/KsNUbY7.png" width="100px">
-    <img src="https://i.imgur.com/2tN3J3b.png" width="100px">
+    <img src="https://i.imgur.com/4fxat2M.png" width="100px">
+    <img src="https://i.imgur.com/0WnPtS8.png" width="100px">
 </div>
 
 <br>
@@ -154,18 +148,15 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Desktop**
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/2cERQ24.png" width="250px">
-    <img src="https://i.imgur.com/pp0Qaci.png" width="250px">
-    <img src="https://i.imgur.com/YAnchKl.png" width="250px">
-    <img src="https://i.imgur.com/WcJwwOz.png" width="250px">
-    <img src="https://i.imgur.com/wrYY0vM.png" width="250px">
+    <img src="https://i.imgur.com/yLCRnFI.png" width="250px">
+    <img src="https://i.imgur.com/aPjI7iU.png" width="250px">
 </div>
 
 ## Testes 🔧
 
 Lighthouse Chrome Test
 
-<img src="https://i.imgur.com/83tfBgH.jpeg" width="300px">
+<img src="https://i.imgur.com/GdWsqIE.jpeg" width="300px">
 
 ## Aprendizados 💡
 
@@ -174,36 +165,29 @@ Durante o desenvolvimento deste projeto, aprendemos e praticamos diversas habili
 - **HTML Semântico:** Utilizamos HTML semântico para melhorar a estrutura e acessibilidade do nosso projeto, garantindo que os elementos tenham significado claro e relevante.
 - **Estruturas Eficientes e Código Limpo:** Implementamos estruturas eficientes e escrevemos código limpo, seguindo boas práticas de desenvolvimento para facilitar a manutenção e compreensão do código.
 - **CSS e Boas Práticas:** Aplicamos CSS de forma organizada e seguimos boas práticas de estilo para garantir uma apresentação visual consistente e agradável do nosso projeto.
+- **JavaScript Interativo:** Utilizamos JavaScript para tornar nosso site interativo e dinâmico, adicionando funcionalidades como validação de formulários, animações e interações com o usuário.
 - **SEO e Otimização:** Implementamos técnicas de SEO (Search Engine Optimization) e otimização para melhorar a visibilidade do nosso projeto nos mecanismos de busca e garantir uma melhor experiência para os usuários.
 - **UI/UX:** Focamos em aspectos de design de interface do usuário (UI) e experiência do usuário (UX) para criar uma experiência agradável e intuitiva para os usuários finais.
 - **Testes de Desempenho:** Realizamos testes de desempenho para identificar e corrigir possíveis gargalos e melhorar a velocidade de carregamento do nosso projeto.
 - **Componentização:** Adotamos a prática de componentização, dividindo o projeto em componentes reutilizáveis para promover a modularidade e escalabilidade do código.
-
-- **Design Responsivo e Mobile-First:** Aprendemos e aplicamos os princípios do design responsivo e adotamos a abordagem mobile-first durante o desenvolvimento do projeto. Isso nos permitiu criar um site que se adapta de forma fluida a diferentes tamanhos de tela e dispositivos, garantindo uma experiência consistente e otimizada, especialmente para dispositivos móveis, onde começamos o processo de design e expandimos para telas maiores. Essa abordagem assegura que nosso site seja acessível e visualmente atraente em uma variedade de dispositivos, desde smartphones até desktops, priorizando a experiência do usuário em dispositivos móveis e adaptando-a para outras plataformas.
-
-- **BootStrap:** Bootstrap é um framework front-end que agiliza o desenvolvimento de websites responsivos, fornecendo componentes e estilos pré-construídos para criar interfaces visualmente atraentes e consistentes em diferentes dispositivos.
-
-- **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, permitindo uma codificação mais eficiente e organizada. Ele oferece recursos como variáveis, aninhamento de seletores, mixins e funções, facilitando a criação e manutenção de estilos para páginas da web.
-
+- **JavaScript Assíncrono:** Utilizamos JavaScript assíncrono para melhorar o desempenho e a responsividade do nosso site, realizando operações como requisições AJAX para carregar conteúdo de forma dinâmica e sem recarregar a página.
 
 Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projeto, fornecendo uma base sólida para futuros desenvolvimentos e contribuições.
 
-## ~~Técnicas Aplicadas~~  ✔📌
+## Técnicas Aplicadas ✔📌
 
-Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluindo:
+Neste projeto, aplicamos várias técnicas de desenvolvimento web, incluindo:
 
 - **Boas Práticas e Código Limpo:** O código foi escrito seguindo boas práticas de programação, com comentários claros para facilitar a compreensão e manutenção.
 - **Componentização:** Dividimos o site em componentes reutilizáveis, como header, main e footer, para promover a manutenção e escalabilidade do código.
 - **UI/UX Básico:** Aplicamos conceitos básicos de design de interface do usuário (UI) e experiência do usuário (UX) para garantir uma experiência agradável para o usuário final.
 - **Desempenho e Otimização de Imagens:** Implementamos técnicas de otimização para melhorar o desempenho do site, incluindo a compressão de imagens para reduzir o tempo de carregamento.
 - **SEO e Acessibilidade:** Utilizamos meta tags estratégicas para otimizar o site para mecanismos de busca (SEO) e implementamos práticas de acessibilidade para garantir que o site seja acessível para todos os usuários, incluindo aqueles com deficiências.
+- **JavaScript Interativo:** Utilizamos JavaScript para adicionar funcionalidades interativas ao nosso site, como validação de formulários, animações e interações dinâmicas com o usuário.
+- **JavaScript Assíncrono:** Implementamos JavaScript assíncrono para melhorar a responsividade do site, realizando operações como requisições AJAX para carregar conteúdo de forma dinâmica e sem recarregar a página.
+- **Design Responsivo e Mobile First:** Adotamos a abordagem mobile-first durante o desenvolvimento do projeto, garantindo que o site seja totalmente funcional e esteticamente agradável em dispositivos móveis, e expandimos o design para dispositivos maiores, mantendo consistência e usabilidade em todas as plataformas.
 
-- **Design Responsivo e Mobile First":** No projeto, priorizamos o design responsivo e adotamos a abordagem mobile-first, garantindo total funcionalidade e estética em dispositivos móveis. Expandimos o design para dispositivos maiores, mantendo consistência e usabilidade em todas as plataformas, assegurando uma experiência otimizada para todos os usuários.
-
-- **BootStrap:** Bootstrap oferece um sistema de grade flexível e componentes prontos para uso, permitindo criar layouts responsivos e estilizados facilmente. Suas classes de utilitário agilizam o estilo e a formatação, enquanto os plugins JavaScript adicionam funcionalidades interativas aos sites. Personalizável via Sass, o Bootstrap é uma ferramenta essencial para o desenvolvimento front-end eficiente.
-
-- **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, oferecendo recursos avançados para uma codificação mais eficiente e organizada, como variáveis, aninhamento de seletores e mixins.
-
+Essas técnicas, combinadas com os aprendizados adquiridos, proporcionam uma base sólida para o desenvolvimento de projetos web de alta qualidade, priorizando a experiência do usuário e a eficiência do código.
 
 ## Dificuldades 🚨
 
@@ -213,7 +197,7 @@ Desing Responsivo com BootStrap
 
 Este projeto está licenciado sob a Nome da Licença - veja o arquivo LICENSE para mais detalhes.
 
-## Contribuição 📑 
+## Contribuição 📑
 
 A contribuição para o Título do Projeto é bem-vinda! Para contribuir, siga estas etapas:
 
@@ -237,6 +221,6 @@ Não hesite em nos contatar. Estamos sempre aqui para ajudar!
 
 ## Updates 🔄
 
-Mantenha-se atualizado com as últimas novidades e atualizações do projeto: **Landing Page Esfiharia**:
+Mantenha-se atualizado com as últimas novidades e atualizações do projeto:
 
 - [Histórico de Atualizações](#) [**Sem Atualizações no Momento!!**]
